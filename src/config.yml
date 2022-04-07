@@ -1,0 +1,8 @@
+encoding: UTF-8
+threadPoolSize: 12
+sourceDirectory: C:\tmp_log
+targetDirectory: C:\tmp_log\result
+stringsToFind:
+    - some text 1
+    - some text 2
+    - some text 3
